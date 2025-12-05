@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "鴨川等間隔",
+  "base_artist": "岡崎体育",
+  "createdAt": "2025-12-05T01:03:11.656281Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鴨川等間隔",
+      "artist": "岡崎体育",
+      "has_synced": false,
+      "path": "select/01_鴨川等間隔_岡崎体育.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鴨川等間隔",
+      "artist": "岡崎体育",
+      "has_synced": false,
+      "path": "select/pl_01_鴨川等間隔_岡崎体育.txt"
+    }
+  ]
+}
